@@ -1,6 +1,8 @@
 # GITDEMO
 
-创建基于GitHub的毕设项目1.安装git
+创建基于GitHub的毕设项目
+
+1.安装git
 
 1.1下载git
 
